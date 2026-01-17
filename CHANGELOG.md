@@ -1,5 +1,6 @@
 ## Unreleased
 
+* Update default tailscale version from 1.40.0 to 1.92.5
 * Update README to include mention of serving application to only users in your
   Tailnet.
 
