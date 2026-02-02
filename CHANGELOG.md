@@ -7,7 +7,7 @@
   - Traditional auth keys remain fully supported for backward compatibility
 - **Fix**: `TAILSCALE_ADVERTISE_TAGS` now properly passed to `tailscale up` command
 - Update README with OAuth client setup instructions
-- Upgrade Tailscale (1.76.6)
+- Upgrade default Tailscale version to 1.94.1
 
 ## 1.1.2
 
